@@ -1,1 +1,1 @@
-# ArcoLinux-config for FVWM3
+# ArcoLinux-config
